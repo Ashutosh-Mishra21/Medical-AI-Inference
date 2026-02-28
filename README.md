@@ -425,3 +425,10 @@ Benchmark environment:
 - Add automated CI benchmarks and regression thresholds.
 - Expand monitoring dashboards (latency percentiles, GPU utilization, queue depth).
 - Introduce Kubernetes deployment manifests/Helm charts for production rollout.
+
+## Submission Notes
+
+- This project focuses on scalable model serving and inference infrastructure.
+- Model training is intentionally out of scope.
+- Performance metrics were gathered on a single-node GPU-enabled environment.
+- Throughput and latency characteristics are documented based on empirical load testing.
