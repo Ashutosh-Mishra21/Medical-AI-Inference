@@ -239,11 +239,11 @@ Observations:
 
 ### 50 Virtual Users
 
-![k6 50](k6_50vus.png)
+![k6 50](result_images/k6_50vus.png)
 
 ### 100 Virtual Users
 
-![k6 100](k6_100vus.png)
+![k6 100](result_images/k6_100vus.png)
 
 ---
 
@@ -286,11 +286,11 @@ This is consistent with a system where model execution is efficient, but ingress
 
 ### Latency vs Concurrency
 
-![Latency Graph](latency_vs_vus.png)
+![Latency Graph](result_images/latency_vs_vus.png)
 
 ### Throughput vs Concurrency
 
-![Throughput Graph](throughput_vs_vus.png)
+![Throughput Graph](result_images/throughput_vs_vus.png)
 
 ---
 
