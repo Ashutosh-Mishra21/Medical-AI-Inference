@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+numpy
+pillow
+tritonclient[http]
+python-multipart
+prometheus-fastapi-instrumentator
+loguru
